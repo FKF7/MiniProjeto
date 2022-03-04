@@ -1,0 +1,38 @@
+.centro{
+	text-align:center;
+}
+
+#esquerda{
+	width:40%;
+	float:left;
+	margin-left:10%;
+	margin-right:5%;
+}
+
+#direita{
+	text-align:left;
+	width:30%;
+	float:right;
+	margin-left:5%;
+	margin-right:10%;
+}
+
+.form{
+	padding-top:10px;
+}
+
+.titulo{
+	padding-top:50px;
+}
+
+.esquerda{
+	text-align:right;
+	float:left;
+	width:50%;
+}
+
+.direita{
+	text-align:left;
+	float:right;
+	width:50%;
+}
